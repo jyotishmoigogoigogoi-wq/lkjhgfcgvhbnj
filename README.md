@@ -56,10 +56,11 @@ yorifile-bot/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yorifile-bot.git
-   cd yorifile-bot
-   ```
-
+  
+-git clone https://github.com/yourusername/yorifile-bot.git
+-cd yorifile-bot
++git clone https://github.com/jyotishmoigogoigogoi-wq/lkjhgfcgvhbnj.git
++cd lkjhgfcgvhbnj
 2. **Create and activate a virtual environment:**
    ```bash
    python3 -m venv .venv
